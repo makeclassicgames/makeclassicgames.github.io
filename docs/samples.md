@@ -1,3 +1,8 @@
+---
+hidde:
+    - toc
+    - navigation
+---
 # Ejemplos
 
 Aquí podrás encontrar los diferentes enlaces de ejemplos y repositorios vistos en los distintos Streams.

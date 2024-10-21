@@ -1,9 +1,9 @@
 @media (max-width: 600px) {
     div[role="main"] {
-        padding-top: 5em;
+        padding-top: 2em;
     }
-}
-
-.under{
-    text-decoration: underline;
+    div[role="complementary"]{
+        display: none;
+      
+    }
 }
