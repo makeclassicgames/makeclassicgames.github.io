@@ -1,10 +1,17 @@
 site_name: Make Classic Games
+site_url: https://makeclassicgames.dev
 nav:
   - Inicio: 'index.md'
   - Streams: 'stream.md'
   - Ejemplos: 'samples.md'
   - Libros: 'books.md'
   - Acerca de: 'about.md'
-theme: bootstrap386
+theme: 
+  name: bootstrap386
 extra_javascript:
   - 'js/noanim.js'
+extra_css:
+  - 'css/mobile.css'
+copyright: (C) 2024 Make Classic Games
+markdown_extensions:
+  - attr_list

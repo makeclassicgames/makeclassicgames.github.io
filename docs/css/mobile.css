@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+    div[role="main"] {
+        padding-top: 5em;
+    }
+}
+
+.under{
+    text-decoration: underline;
+}
