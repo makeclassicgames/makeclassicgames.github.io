@@ -1,0 +1,26 @@
+# Streams
+
+Aquí puedes encontrar información acerca de los últimos Streams.
+
+## Último Stream
+
+Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
+
+### Especial Sonic; 20 de Octubre de 2024
+
+<iframe src="https://player.twitch.tv/?video=2280895699&parent=localhost" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+
+## Otros Streams
+
+A continuación, puedes encontrar otros Streams anteriores; además recuerda que puedes encontrar los directos en nuestro canal de Youtube:
+
+[```https://www.youtube.com/@MakeClassicgames```](https://www.youtube.com/@MakeClassicgames)
+
+### Hacktoberfest - Git y Github
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1BQKDqfUS0?si=zue_h85nl_TxtDr-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### GBStudio - Creamos un juego para Game Boy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1Z4cl9VPY4?si=9yxkbyeiJy09V653" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

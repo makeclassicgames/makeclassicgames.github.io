@@ -1,0 +1,10 @@
+site_name: Make Classic Games
+nav:
+  - Inicio: 'index.md'
+  - Streams: 'stream.md'
+  - Ejemplos: 'samples.md'
+  - Libros: 'books.md'
+  - Acerca de: 'about.md'
+theme: bootstrap386
+extra_javascript:
+  - 'js/noanim.js'
