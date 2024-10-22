@@ -1,4 +1,6 @@
 site_name: Make Classic Games
+site_author: Make Classic Games
+site_description: Canal de Twitch de creación de videojuegos clásicos. Aprende a crear juegos para consolas y ordenadores retro. https://twitch.tv/makeclassicgames
 site_url: https://makeclassicgames.dev
 nav:
   - Inicio: 'index.md'
