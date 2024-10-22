@@ -14,6 +14,6 @@ extra_javascript:
   - 'js/noanim.js'
 extra_css:
   - 'css/mobile.css'
-copyright: (C) 2024 Make Classic Games
+copyright: (C) 2024 Make Classic Games - <a href="https://x.com/makeclassicgame" title="X"><img src="/img/xicon.png"/></a> <a href="https://bsky.app/profile/makeclassicgames.bsky.social" title="BlueSky"><img src="/img/bsky.jpeg"/></a> <a href="https://mastodon.social/@makeclassicgames" title="Mastodon" rel="me"><img src="/img/mastodon.png"/></a> <a href="https://github.com/makeclassicgames" title="Github"><img src="/img/github.png"/></a>
 markdown_extensions:
   - attr_list

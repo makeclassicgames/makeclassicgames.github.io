@@ -6,4 +6,9 @@
         display: none;
       
     }
+   
+}
+
+footer.container img{
+    max-width: 16px;
 }
