@@ -9,6 +9,11 @@ Aquí podrás encontrar los diferentes enlaces de ejemplos y repositorios vistos
 
 Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por cada una de las generaciones de consolas.
 
+## ```Segunda generación```
+
+* Atari 2600
+    * [Presentación acerca de Atari y Atari 2600](pdfs/atari.pdf){:target="_blank" title="Presentación acerca de Atari 2600"}
+
 ## ```Tercera generación```
 
 * Zx Spectrum
