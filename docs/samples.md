@@ -30,6 +30,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación Sega Mega Drive](pdfs/MDrive.pdf){:target="blank" title="Presentación acerca Sega Mega Drive"}.
     * [Repositorio con Ejemplos](https://github.com/zerasul/mdbook-examples){:target="blank" title="Repositorio Ejemplos Sega Mega Drive"}.
     * [Repositorio con BoingMD (pong)](https://github.com/makeclassicgames/BoingSGDK){:target="blank" title="Repositorio Pong juego para Sega Mega Drive"}.
+    * [Ejemplo Plataformas SGDK](https://github.com/makeclassicgames/exampleSGDKPlatformer){:target="blank" title="Repositorio del ejemplo visto en el directo sobre TILED y SGDK"}
 
 ## ```Sexta Generación```
 
