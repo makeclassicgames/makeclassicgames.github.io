@@ -25,4 +25,8 @@ Aquí puedes encontrar los horarios de los Streams:
 ```NOTA: Todos los horarios estan en formato CEST (GMT+2).
 ```
 
+### ```Próximo Especial```
+
+El próximo especial, será el ```día 10 de Noviembre y tratará sobre juegos RTS``` (estrategia en tiempo real.)
+
 
