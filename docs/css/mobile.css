@@ -12,3 +12,7 @@
 footer.container img{
     max-width: 16px;
 }
+
+code{
+    padding:3px;
+}
