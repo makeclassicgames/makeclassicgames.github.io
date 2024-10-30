@@ -42,7 +42,9 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 * Nintendo DS:
     * [Presentación Nintendo DS](pdfs/NDS.pdf){:target="blank" title="Presentación acerca de Nintendo DS"}.
-    * [Repositorio con Ejemplos](https://github.com/LaJaqueria/nds-examples){:target="blank" title="Repositorio Ejemplos NDS"}
+    * [Repositorio con Ejemplos](https://github.com/LaJaqueria/nds-examples){:target="blank" title="Repositorio Ejemplos NDS"}.
+    * [Presentación sobre Wii y WiiU](pdfs/Wiii_Wiiu.pdf){:target="blank" title="Presentación Wii y WiiU"}.
+    * [Repositorio oficial con ejemplos](https://github.com/devkitPro/wii-examples){:target="blank" title="Repositorio oficial ejemplos Wii}.
 
 ## ```Octava Generación```
 
