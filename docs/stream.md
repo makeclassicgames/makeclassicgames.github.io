@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Wii/WiiU - Como desarrollar para Wii o WiiU
+### Sesión práctica - SGDK - Juego para Sega Mega Drive - Plataformas y rampas
 
-<iframe src="https://player.twitch.tv/?video=2289219537&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2290877012&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 <p></p>
 
 ## ```Otros Streams```
@@ -19,14 +19,12 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Wii/WiiU - Gamedev y herramientas para Consolas Wii y WIiU
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/tCO2Es6KJUE?si=HKYuryxghqAnDzSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### TILED y SGDK - Creamos un juego plataformas
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/QeaayXN040c?si=eYJU_KhfUPBQcFz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Atari y Atari 2600 - Herramientas de desarrollo
-
-<p></p>
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/IJ_qg3sItLc?si=dBZXZ4CqwvFTqMhx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
