@@ -31,6 +31,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Repositorio con Ejemplos](https://github.com/zerasul/mdbook-examples){:target="blank" title="Repositorio Ejemplos Sega Mega Drive"}.
     * [Repositorio con BoingMD (pong)](https://github.com/makeclassicgames/BoingSGDK){:target="blank" title="Repositorio Pong juego para Sega Mega Drive"}.
     * [Ejemplo Plataformas SGDK](https://github.com/makeclassicgames/exampleSGDKPlatformer){:target="blank" title="Repositorio del ejemplo visto en el directo sobre TILED y SGDK"}
+    * [Ejemplo Plataformas SGDK con Desplazamiento y Rampas](https://github.com/makeclassicgames/sgdkplaformer2){:target="blank" title="Repositorio del ejemplo visto en el directo con sgdk; creando un plataformas con desplazamiento y rampas"}
 
 ## ```Sexta Generación```
 
