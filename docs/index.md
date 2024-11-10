@@ -27,6 +27,6 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 10 de Noviembre y tratará sobre juegos RTS``` (estrategia en tiempo real.)
+El próximo especial, será el ```día 28 de Noviembre y tratará sobre juegos Beat'emup``` (estrategia en tiempo real.)
 
 

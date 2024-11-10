@@ -8,7 +8,7 @@ Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
 ### PlayStation Portable - retrodev - Como desarrollar para PSP
 
-<iframe src="https://player.twitch.tv/?video=2295092398&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2298432485&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 <p></p>
 
 ## ```Otros Streams```
@@ -19,12 +19,14 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
-### Sesión práctica - SGDK - Plataformas con desplazamiento y rampas
+### Sesión práctica - GBA - Parte 1 - Inicio del proyecto con GBA
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/PsJJQItB4tk?si=o-EIcSTRdrx21rdX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/Llh01TqUqYE?si=r_vyx0rqyYz_oWcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Wii/WiiU - Gamedev y herramientas para Consolas Wii y WIiU
+<p></p>
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/tCO2Es6KJUE?si=HKYuryxghqAnDzSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### PlayStation Portable - Gamedev y herramientas para PSP
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/2r6qM_CVe5o?si=PpUMEITQ39KxhGiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
