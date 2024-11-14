@@ -12,6 +12,7 @@ Por supuesto, puedes encontrarnos en diferentes redes sociales:
 * BlueSky: [```https://bsky.app/profile/makeclassicgames.bsky.social```](https://bsky.app/profile/makeclassicgames.bsky.social)
 * Mastodon: [```https://mastodon.social/@makeclassicgames```](https://mastodon.social/@makeclassicgames)
 
+También puedes encontrarnos en ```Discord``` a través de nuestra comunidad. Sigue este [enlace de invitación](https://discord.gg/P7984gThUq).
 
 Además, puedes contactar con nosotros a través del correo makeclassicgames(at)gmail.com.
 
