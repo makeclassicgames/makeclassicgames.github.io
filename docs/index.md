@@ -27,6 +27,6 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 28 de Noviembre y tratará sobre juegos Beat'emup``` (SoR, Golden Axe,...)
+El próximo especial, será el ```día 1 de Diciembre y tratará sobre juegos Beat'emup``` (SoR, Golden Axe,...)
 
 
