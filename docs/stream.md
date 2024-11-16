@@ -6,9 +6,10 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Playstation 2 - Instalación de Linux en la PS2
+### Sesión práctica - GBA parte 2 - Nuevo Discord y Físicas en GBA
 
-<iframe src="https://player.twitch.tv/?video=2300818216&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2302440081&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
 <p></p>
 
 ## ```Otros Streams```
@@ -19,14 +20,14 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
-### Sesión práctica - GBA - Parte 1 - Inicio del proyecto con GBA
+### PlayStation 2 - Instalamos Linux en una PS2
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/Llh01TqUqYE?si=r_vyx0rqyYz_oWcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/YynlLqyejHU?si=pGrmeoiG22r0wg2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p></p>
 
-### PlayStation Portable - Gamedev y herramientas para PSP
+### Sesión práctica - GBA - Parte 1 - Inicio del proyecto con GBA
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/2r6qM_CVe5o?si=PpUMEITQ39KxhGiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/Llh01TqUqYE?si=r_vyx0rqyYz_oWcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 

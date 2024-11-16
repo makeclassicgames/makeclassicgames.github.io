@@ -38,6 +38,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * Game Boy Advance
     * [Presentación acerca de Game Boy Advance](pdfs/Game%20Boy%20Advance.pdf){:target="blank" title="Presentación acerca Game Boy Advance"}
     * [Repositorio con ejemplos](https://github.com/makeclassicgames/gba-examples){:target="blank" title="Repositorio con ejemplos sobre Game Boy Advance"}
+    * [Repositorio de prácticas GBA](https://github.com/makeclassicgames/gbaPractice){:target="blank" title="Repositorio con el ejemplo de prácticas para GBA"}
 * PlayStation 2
     * [Instalación Linux PS2](pdfs/Ps2linux.pdf){:target="blank" title="Presentación sobre como instalar Linux en una PS2"}
 
