@@ -8,7 +8,7 @@ Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
 ### Sesión práctica - GBA parte 2 - Nuevo Discord y Físicas en GBA
 
-<iframe src="https://player.twitch.tv/?video=2302440081&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=2302440081&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
