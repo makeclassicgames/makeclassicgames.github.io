@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+    div[role="main"] {
+        padding-top: 2em;
+    }
+    div[role="complementary"]{
+        display: none;
+      
+    }
+}

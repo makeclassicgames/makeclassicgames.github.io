@@ -6,7 +6,7 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Sesión práctica - GBA parte 2 - Nuevo Discord y Físicas en GBA
+### Neo Geo - Sistema y Herramientas de desarrollo para Neo Geo 
 
 <iframe src="https://player.twitch.tv/?video=2306594301&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
