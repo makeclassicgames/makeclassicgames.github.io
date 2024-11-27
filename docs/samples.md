@@ -20,6 +20,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación sobre assembler Z80](pdfs/Z80.pdf){:target="_blank" title="Presentación acerca ensamblador Z80"}.
     * [Presentación Zx Spectrum](pdfs/Zx%20Spectrum.pdf){:target="_blank" title="Presentación acerca ZX Spectrum"}.
     * [Repositorio Juego Batalla Espacial](https://github.com/makeclassicgames/ZXgalaticBattle){:target="_blank" title="Repositorio juego realizado en ensamblador para ZX Spectrum"}.
+* Sega Master System
+    * [Presentación acerca de SMS](pdfs/SMS.pdf){:target="_blank" title="Presentación acerca Sega Master System"}.
 
 ## ```Cuarta Generación```
 
