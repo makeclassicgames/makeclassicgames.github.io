@@ -25,8 +25,7 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 <iframe width="460" height="315" src="https://www.youtube.com/embed/lj_lYC3P9i8?si=QnNcqZATPEZNBm4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p></p>
 
-### Neo Geo - Herramientas de desarrollo y ejemplos - Resumen de la sesión
+### Sega Master System - Herramientas de Desarrollo y Ejemplos - Resumen de la sesión
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/NwPAKnuV6lk?si=o4dbG7_TK2MKAoNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="460" height="315" src="https://www.youtube.com/embed/Tug6xDlR_x0?si=1rOGpK6l_4JvkyPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
