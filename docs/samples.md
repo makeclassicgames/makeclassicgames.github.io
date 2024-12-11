@@ -35,7 +35,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Ejemplo Plataformas SGDK](https://github.com/makeclassicgames/exampleSGDKPlatformer){:target="blank" title="Repositorio del ejemplo visto en el directo sobre TILED y SGDK"}
     * [Ejemplo Plataformas SGDK con Desplazamiento y Rampas](https://github.com/makeclassicgames/sgdkplaformer2){:target="blank" title="Repositorio del ejemplo visto en el directo con sgdk; creando un plataformas con desplazamiento y rampas"}
 * SNES
-    * [Presentación acerca de SNES](pdfs/SNES.pdf){:target="blank title="Presentación acerca de SNES"; mostrando sus herramientas de desarrollo}
+    * [Presentación acerca de SNES](pdfs/SNES.pdf){:target="blank title="Presentación acerca de SNES, mostrando sus herramientas de desarrollo"}
 * Neo Geo
     * [Presentación acerca de Neo Geo](pdfs/Neo_Geo.pdf){:target="blank" title="Presentación acerca de Neo Geo y el Desarrollo para dicha plataforma"}
 
