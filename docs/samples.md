@@ -38,6 +38,11 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación acerca de SNES](pdfs/SNES.pdf){:target="blank" title="Presentación acerca de SNES, mostrando sus herramientas de desarrollo"}
 * Neo Geo
     * [Presentación acerca de Neo Geo](pdfs/Neo_Geo.pdf){:target="blank" title="Presentación acerca de Neo Geo y el Desarrollo para dicha plataforma"}
+    
+## ```Quinta Generación```
+
+* Sega Saturn
+    * [Presentación acerca de Sega Saturn](pdfs/Sega%20Saturn.pdf){:target="blank" title="Presentación acerca Sega Saturn y las herramientas de desarrollo disponibles"}
 
 ## ```Sexta Generación```
 
