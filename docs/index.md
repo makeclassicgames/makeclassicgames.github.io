@@ -22,8 +22,7 @@ Aquí puedes encontrar los horarios de los Streams:
 * ```Viernes a las 16:00```
 * ```Domingo a las 16:30 (solo especiales)```
 
-```NOTA: Todos los horarios estan en formato CEST (GMT+2).
-```
+```NOTA: Todos los horarios estan en formato CEST (GMT+2).```
 
 ### ```Próximo Especial```
 
