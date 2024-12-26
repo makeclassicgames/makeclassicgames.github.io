@@ -21,7 +21,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación Zx Spectrum](pdfs/Zx%20Spectrum.pdf){:target="_blank" title="Presentación acerca ZX Spectrum"}.
     * [Repositorio Juego Batalla Espacial](https://github.com/makeclassicgames/ZXgalaticBattle){:target="_blank" title="Repositorio juego realizado en ensamblador para ZX Spectrum"}.
 * NES
-    * [Presentación desarrollo para NES](pdfs/NES.pdf){:target="blank" title="Presentación acerca de NES y su desarrollo}
+    * [Presentación desarrollo para NES](pdfs/NES.pdf){:target="blank" title="Presentación acerca de NES y su desarrollo}.
 * Sega Master System
     * [Presentación acerca de SMS](pdfs/SMS.pdf){:target="_blank" title="Presentación acerca Sega Master System"}.
 
