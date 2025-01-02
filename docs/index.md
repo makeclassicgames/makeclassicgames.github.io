@@ -26,5 +26,5 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 22 de Diciembre y tratará sobre juegos de Spectrum usando The Spectrum```.
+El próximo especial, será el ```día 26 de Enero y tratará sobre Playstation 2```.
 
