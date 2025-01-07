@@ -26,5 +26,5 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 26 de Enero y tratará sobre Playstation 2```.
+El próximo especial, será el ```día 26 de Enero y tratará sobre Playstation 2``` y contará con un sorteo [```especial 100 seguidores```](sorteo.md).
 
