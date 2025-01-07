@@ -21,7 +21,7 @@ Para participar debes:
 
 * Debes ser mayor de edad y residir en España (por motivos logísticos).
 
-El sorteo se realizará en directo; por lo que debes estar conectado para recibir tu premio; se te preguntarán tu nombre y dirección en privado. Dichos datos serán tratados solo para el concurso y logística y serán borrados para preservar la privacidad una vez finalizado y confirmada la recepción.
+El sorteo se realizará en directo; por lo que debes estar conectado para recibir tu premio; se te preguntarán tu nombre,dirección y correo de contacto; en privado. Dichos datos serán tratados solo para el concurso y logística y serán borrados para preservar la privacidad una vez finalizado y confirmada la recepción.
 
 Cualquier pregunta relacionada con el sorteo, puedes consultarnos en el correo del canal:
 
