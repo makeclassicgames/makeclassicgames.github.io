@@ -45,6 +45,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 * Sega Saturn
     * [Presentación acerca de Sega Saturn](pdfs/Sega%20Saturn.pdf){:target="blank" title="Presentación acerca Sega Saturn y las herramientas de desarrollo disponibles"}
+* Sony PlayStation
+    * [Sony PlayStation](pdfs/PS1.pdf){:target="blank" title="Presentación acerca de Sony PlayStation y las Herramientas de desarrollo disponibles"}
 
 ## ```Sexta Generación```
 
