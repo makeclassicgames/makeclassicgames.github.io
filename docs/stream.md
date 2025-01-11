@@ -8,7 +8,7 @@ Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
 ### Primer Directo del año - Objetivos y programación con Raylib
 
-<iframe src="https://player.twitch.tv/?video=2346885349&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2349427175&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
@@ -20,11 +20,10 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
-### NES - Herramientas de Desarrollo
+### Sony PlayStation - Herramientas de Desarrollo
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/XzkOyIhTq_8?si=QEIhqMmeRqc8Rn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p></p>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/yvP3Xb3k2Sw?si=S1ZlleGCVSeXl9ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p></p>
 
-### Docker y Docker compose - Sesión extra navidad
+### Sesión Práctica - Shoothemup con Raylib - Parte 6 - Tag System y Temporizadores
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/e1KL6D8AgQI?si=v7UB4-i8-RBQfIFi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/LIh7bJ7XZyc?si=JSzx-vRwZNGhNmCp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
