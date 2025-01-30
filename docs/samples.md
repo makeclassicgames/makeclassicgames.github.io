@@ -70,7 +70,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Repositorio con Ejemplos](https://github.com/LaJaqueria/nds-examples){:target="blank" title="Repositorio Ejemplos NDS"}.
 * Wii/WiiU:
     * [Presentación sobre Wii y WiiU](pdfs/Wiii_Wiiu.pdf){:target="blank" title="Presentación Wii y WiiU"}.
-    * [Repositorio oficial con ejemplos](https://github.com/devkitPro/wii-examples){:target="blank" title="Repositorio oficial ejemplos Wii}.
+    * [Repositorio oficial con ejemplos](https://github.com/devkitPro/wii-examples){:target="blank" title="Repositorio oficial ejemplos Wii"}.
 * XBOX 360:
     * [Presentación XBOX 360](pdfs/XBOX360.pdf){:target="blank" title="Presentación acerca de XBOX 360"}
 
