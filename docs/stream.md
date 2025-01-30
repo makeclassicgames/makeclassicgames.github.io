@@ -26,4 +26,4 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 ### Sony PlayStation - Herramientas de Desarrollo
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/yvP3Xb3k2Sw?si=S1ZlleGCVSeXl9ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p></p>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/yvP3Xb3k2Sw?si=H4ba6Iv-OlMXk2CL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
