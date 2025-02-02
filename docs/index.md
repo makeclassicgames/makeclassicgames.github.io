@@ -18,7 +18,7 @@ Además, subimos nuestros Directos a Youtube:
 
 Aquí puedes encontrar los horarios de los Streams:
 
-* ```Miércoles a las 17:00```
+* ```Miércoles a las 16:00```
 * ```Viernes a las 16:00```
 * ```Domingo a las 16:30 (solo especiales)```
 
@@ -26,5 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 26 de Enero y tratará sobre Playstation 2``` y contará con un sorteo [```especial 100 seguidores```](sorteo.md).
-
+El próximo especial, será el ```día 23 de Febrero y tratará sobrejuegos Shot'emup```.
