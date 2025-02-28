@@ -58,6 +58,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Repositorio de prácticas GBA](https://github.com/makeclassicgames/gbaPractice){:target="blank" title="Repositorio con el ejemplo de prácticas para GBA"}
 * Sega Dreamcast
     * [Presentación acerca de DreamCast](pdfs/Dreamcast.pdf){:target="blank" title="Presentación acerca de Dreamcast y sus herramientas de desarrollo"}
+* Nintendo GameCube
+    * [Presentación acerca GameCube](pdfs/GameCube.pdf){:target="blank" title="Presentación acerca Nintendo GameCube"}
 * PlayStation 2
     * [Instalación Linux PS2](pdfs/Ps2linux.pdf){:target="blank" title="Presentación sobre como instalar Linux en una PS2"}
     * [PlayStation 2](pdfs/PS2.pdf){:target="blank" title="Presentación acerca de como desarrollar para PlayStation 2"}
