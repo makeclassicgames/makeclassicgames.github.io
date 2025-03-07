@@ -26,4 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 23 de Febrero y tratará sobrejuegos Shot'emup```.
+El próximo especial, será el ```día 30 de Marzo y tratará sobre juegos Metroidvania```.
