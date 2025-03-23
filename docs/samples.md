@@ -32,6 +32,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * Game Boy:
     * [Presentación Game Boy](pdfs/GB_GBC.pdf){:target="_blank" title="Presentación acerca Game Boy/Game Boy Color"}.
     * [Repositorio Juego realizado con GBStudio](https://github.com/makeclassicgames/evilchairs){:target="blank" title="Juego para Game Boy realizado usando GBStudio"}.
+* Game Gear:
+    * [Presentación Game Gear](pdfs/SGG.pdf){:target="_blank" title="Presentación acerca Game Gear"}.
 * Sega Mega Drive:
     * [Presentación Sega Mega Drive](pdfs/MDrive.pdf){:target="blank" title="Presentación acerca Sega Mega Drive"}.
     * [Repositorio con Ejemplos](https://github.com/zerasul/mdbook-examples){:target="blank" title="Repositorio Ejemplos Sega Mega Drive"}.
