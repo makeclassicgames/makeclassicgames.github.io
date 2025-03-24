@@ -75,6 +75,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * Nintendo DS:
     * [Presentación Nintendo DS](pdfs/NDS.pdf){:target="blank" title="Presentación acerca de Nintendo DS"}.
     * [Repositorio con Ejemplos](https://github.com/LaJaqueria/nds-examples){:target="blank" title="Repositorio Ejemplos NDS"}.
+    * [CavernDS](https://github.com/makeclassicgames/CavernDS){:target="blank" title="Repositorio con el juego CavernDS un clon bubble bubble para DS (en Construcción)"}.
 * Wii/WiiU:
     * [Presentación sobre Wii y WiiU](pdfs/Wiii_Wiiu.pdf){:target="blank" title="Presentación Wii y WiiU"}.
     * [Repositorio oficial con ejemplos](https://github.com/devkitPro/wii-examples){:target="blank" title="Repositorio oficial ejemplos Wii"}.
@@ -93,6 +94,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación Raylib](pdfs/Raylib.pdf){:target="blank" title="Presentación acerca de Raylib"}
     * [Repositorio Ejemplos](https://github.com/makeclassicgames/raylib-examples){:target="blank" title="Repositorio de ejemplos realizado con Raylib"}
     * [Bunner (Juego realizado con Raylib)](https://github.com/makeclassicgames/bunner){:target="blank" title="Juego completo realizado con Raylib basado en el juego Bunner del libro Code the classics Vol.1"}
+    * [Shot Them Up (En Construcción)](https://github.com/makeclassicgames/shotthemup){:target="_blank" title="Juego Shotemup realizado con Raylib 5.5"}
 * Durango
     * [Presentación ensamblador 6502](pdfs/6502.pdf){:target="blank" title="Presentación acerca de programar para el procesador 6502"}
     * [Presentación Durango](pdfs/Durango%20Computer-3.pdf){:target="blank" title="Presentación acerca del proyecto durango"}
