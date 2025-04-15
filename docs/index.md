@@ -26,4 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 30 de Marzo y tratará sobre juegos Metroidvania```.
+El próximo especial, será el ```día 19 de Abril``` y será un ```extendido programación con SGDK```.
