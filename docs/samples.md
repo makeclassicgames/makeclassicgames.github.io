@@ -20,6 +20,9 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación sobre assembler Z80](pdfs/Z80.pdf){:target="_blank" title="Presentación acerca ensamblador Z80"}.
     * [Presentación Zx Spectrum](pdfs/Zx%20Spectrum.pdf){:target="_blank" title="Presentación acerca ZX Spectrum"}.
     * [Repositorio Juego Batalla Espacial](https://github.com/makeclassicgames/ZXgalaticBattle){:target="_blank" title="Repositorio juego realizado en ensamblador para ZX Spectrum"}.
+* Commodore 64
+    * [Presentación sobre C64](pdfs/C64.pdf){:target="_blank" title="Presentación acerca de Commodore 64 y las herramientas de desarrollo disponibles"}.
+    * [Presentación ensamblador 6502](pdfs/6502.pdf){:target="blank" title="Presentación acerca de programar para el procesador 6502"}
 * MSX
     * [Presentación acerca de MSX](pdfs/MSX.pdf){:target="_blank" title="Presentación acerca de los ordenadores MSX"}.
 * NES
@@ -98,7 +101,6 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Bunner (Juego realizado con Raylib)](https://github.com/makeclassicgames/bunner){:target="blank" title="Juego completo realizado con Raylib basado en el juego Bunner del libro Code the classics Vol.1"}
     * [Shot Them Up (En Construcción)](https://github.com/makeclassicgames/shotthemup){:target="_blank" title="Juego Shotemup realizado con Raylib 5.5"}
 * Durango
-    * [Presentación ensamblador 6502](pdfs/6502.pdf){:target="blank" title="Presentación acerca de programar para el procesador 6502"}
     * [Presentación Durango](pdfs/Durango%20Computer-3.pdf){:target="blank" title="Presentación acerca del proyecto durango"}
     * [Web Proyecto Durango](https://durangoretro.com){:target="blank" title="Web del proyecto Durango"}
 * Docker
