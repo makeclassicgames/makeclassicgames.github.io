@@ -46,7 +46,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * SNES
     * [Presentación acerca de SNES](pdfs/SNES.pdf){:target="blank" title="Presentación acerca de SNES, mostrando sus herramientas de desarrollo"}
 * PC-Engine
-    * [Presentación acerca PC-E/TurboGrafx-16](pdfs/PCE.pdf){:target="blank" title="Presentación acerca de PC-E/TurboGrafx-16}
+    * [Presentación acerca PC-E/TurboGrafx-16](pdfs/PCE.pdf){:target="blank" title="Presentación acerca de PC-E/TurboGrafx-16"}
 * Neo Geo
     * [Presentación acerca de Neo Geo](pdfs/Neo_Geo.pdf){:target="blank" title="Presentación acerca de Neo Geo y el Desarrollo para dicha plataforma"}
     
