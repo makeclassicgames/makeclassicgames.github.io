@@ -99,7 +99,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 * C/C++
     * [Presentación de Introducción a C](https://slides.com/zerasul/introduccion-a-c){:target="blank" title="Presentación de introducción a C"}
-    * [Presentación de Introducción a C++](https://makeclassicgames.dev/cplusplus/)
+    * [Presentación de Introducción a C++](https://makeclassicgames.dev/cplusplus/){:target="blank" title="Presentación de introducción a C++"}
 * Raylib
     * [Presentación Raylib](pdfs/Raylib.pdf){:target="blank" title="Presentación acerca de Raylib"}
     * [Repositorio Ejemplos](https://github.com/makeclassicgames/raylib-examples){:target="blank" title="Repositorio de ejemplos realizado con Raylib"}
