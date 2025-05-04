@@ -26,4 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 27 de Abril``` y tratará sobre ```Nintendo 64```.
+El próximo especial, será el ```día 25 de Mayo``` y tratará sobre ```Nuevos Juegos para Sega Mega Drive```.

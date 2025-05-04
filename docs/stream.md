@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### PC-E/TurboGrafx-16 - Herramientas de Desarrollo
+### Sesión de C++ - Orientación a Objetos y Programación
 
-<iframe src="https://player.twitch.tv/?video=2440507853&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2450220851&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
@@ -20,12 +20,12 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
-### PlayStation 3 - Herramientas de Desarrollo
+### Pc-Engine- Herramientas de desarrollo y ejemplos
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/6_XdZMRhPco?si=_xrFskzGoiYJnEKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/CmLG6RFAquA?si=FWJ7lpyGzvKA3C_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Sega Game Gear - Herramientas de Desarrollo
+### Commodore 64 - Herramientas de desarrollo y ejemplos - Resumen de la sesión
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/rCj7t7deM1A?si=GToipz6iNJXOlj5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/diacznMip8w?si=NnDFKsUksttm_kty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
