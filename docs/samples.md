@@ -104,6 +104,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación de Introducción a C++](https://makeclassicgames.dev/cplusplus/){:target="blank" title="Presentación de introducción a C++"}
 * Rust
     * [Laboratorio Rust](https://github.com/zerasul/intro-rustlab){:target="_blank" title="Laboratorio de introducción a Rust"}
+* Vircon32
+    * [Presentación sobre Vircon32](pdfs/Vircon32.pdf){:target="_blank" title="Presentación acerca del proyecto Vircon32"}
 * Raylib
     * [Presentación Raylib](pdfs/Raylib.pdf){:target="blank" title="Presentación acerca de Raylib"}
     * [Repositorio Ejemplos](https://github.com/makeclassicgames/raylib-examples){:target="blank" title="Repositorio de ejemplos realizado con Raylib"}
