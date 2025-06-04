@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Vircon 32 - Proyecto de consola de 32 bits
+### Sesión Práctica SGDK - Colisiones y mejoras
 
-<iframe src="https://player.twitch.tv/?video=2464536101&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2472430775&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
@@ -20,12 +20,12 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Introducción a C++ - Primera parte
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/MoroY4euv58?si=5PDKncGpqOu1iNXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Pc-Engine- Herramientas de desarrollo y ejemplos
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/CmLG6RFAquA?si=FWJ7lpyGzvKA3C_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-### Commodore 64 - Herramientas de desarrollo y ejemplos - Resumen de la sesión
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/diacznMip8w?si=NnDFKsUksttm_kty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
