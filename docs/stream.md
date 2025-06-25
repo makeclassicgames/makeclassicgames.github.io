@@ -6,7 +6,7 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Sesión Práctica SGDK - Colisiones y mejoras
+### Especial Aniversario - Sorteos y juegos
 
 <iframe src="https://player.twitch.tv/?video=2492939815&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
