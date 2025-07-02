@@ -76,6 +76,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * PlayStation 2
     * [Instalación Linux PS2](pdfs/Ps2linux.pdf){:target="blank" title="Presentación sobre como instalar Linux en una PS2"}
     * [PlayStation 2](pdfs/PS2.pdf){:target="blank" title="Presentación acerca de como desarrollar para PlayStation 2"}
+* XBOX
+    * [Presentación acerca XBOX](pdfs/XBOX.pdf){:target="blank" title="Presentación acerca de como desarrollar para XBOX"}
 
 ## ```Séptima Generación```
 
