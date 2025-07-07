@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### XBOX - Herramientas de desarrollo
+### Noticias y Charla
 
-<iframe src="https://player.twitch.tv/?video=2501726466&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2506048040&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
@@ -20,10 +20,11 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Nokia Ngage - Herramientas de Desarrollo
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/Av8nebUHXbk?si=KKXhJjbZ5x9Jr9lp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Vircon32 - Presentación del proyecto y Herramientas de desarrollo
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/xxbZtHIp-DA?si=29LwAfMU3NbAVXDL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Introducción a C++ - Segunda parte
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/ILMUwpqUyAk?si=_Ka_NnQTWQIyOqZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
