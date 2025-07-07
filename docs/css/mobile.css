@@ -9,6 +9,19 @@
    
 }
 
+.navbar-toggle{
+    /* corregir posición y estilo del botón */
+    padding:3px 8px;
+    margin-right: 8px;
+    border:none;
+}
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:black; /* cambiar color barras */
+}
+.navbar-toggle .icon-bar + .icon-bar{
+    margin-top:3px; /* separar barras */
+}
+
 footer.container img{
     max-width: 16px;
 }
