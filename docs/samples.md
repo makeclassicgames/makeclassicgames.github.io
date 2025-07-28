@@ -122,3 +122,5 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación acerca del uso de Docker](pdfs/Docker.pdf){:target="blank" title="Presentación acerca de Docker"}
 * Pyxel
     * [Presentación acerca de Pyxel](pdfs/pyxel.pdf){:target="blank" title="Presentación y ejemplos del uso de Pyxel un motor retro usando Python"}
+* Presentación Desarrollo Retro.
+    * [Presentación Euskal encounter](pdfs/juegosretro.pdf){:target="blank" title="Presentación de la charla dada en la Euskal Encounter 33"}
