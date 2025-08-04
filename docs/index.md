@@ -26,4 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 26 de Julio``` y tratará sobre ```Especial Euskal Encounter 2025```.
+El próximo especial, será el ```día 31 de Agosto``` y tratará sobre ```Especial Shinobi```.
