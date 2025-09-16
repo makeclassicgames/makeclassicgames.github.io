@@ -26,4 +26,4 @@ Aquí puedes encontrar los horarios de los Streams:
 
 ### ```Próximo Especial```
 
-El próximo especial, será el ```día 31 de Agosto``` y tratará sobre ```Especial Shinobi```.
+El próximo especial, será el ```día 28 de Septiembre``` y tratará sobre ```Especial Comandos```.
