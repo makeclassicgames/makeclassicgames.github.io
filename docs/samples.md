@@ -23,6 +23,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * Commodore 64
     * [Presentación sobre C64](pdfs/C64.pdf){:target="_blank" title="Presentación acerca de Commodore 64 y las herramientas de desarrollo disponibles"}.
     * [Presentación ensamblador 6502](pdfs/6502.pdf){:target="blank" title="Presentación acerca de programar para el procesador 6502"}
+* Amstrad CPC
+    * [Presentación Amstrad CPC](pdfs/Amstrad%20CPC.pdf){:target="_blank" title="Presentación acerca de Amstrad CPC y las herramientas disponibles"}
 * MSX
     * [Presentación acerca de MSX](pdfs/MSX.pdf){:target="_blank" title="Presentación acerca de los ordenadores MSX"}.
 * NES
