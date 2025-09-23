@@ -117,7 +117,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Repositorio Ejemplos](https://github.com/makeclassicgames/raylib-examples){:target="blank" title="Repositorio de ejemplos realizado con Raylib"}
     * [Bunner (Juego realizado con Raylib)](https://github.com/makeclassicgames/bunner){:target="blank" title="Juego completo realizado con Raylib basado en el juego Bunner del libro Code the classics Vol.1"}
     * [Shot Them Up (En Construcción)](https://github.com/makeclassicgames/shotthemup){:target="_blank" title="Juego Shotemup realizado con Raylib 5.5"}.
-    * [Dinosaur Raylib](https://github.com/makeclassicgames/dinosaurraylib){:target="_blank" title="Clon del juego del 'dinosaurio' de Chrome desarrollado en C++}.
+    * [Dinosaur Raylib](https://github.com/makeclassicgames/dinosaurraylib){:target="_blank" title="Clon del juego del 'dinosaurio' de Chrome desarrollado en C++"}.
 * Durango
     * [Presentación Durango](pdfs/Durango%20Computer-3.pdf){:target="blank" title="Presentación acerca del proyecto durango"}
     * [Web Proyecto Durango](https://durangoretro.com){:target="blank" title="Web del proyecto Durango"}
