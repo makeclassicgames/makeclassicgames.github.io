@@ -18,7 +18,7 @@ Además, subimos nuestros Directos a Youtube:
 
 Aquí puedes encontrar los horarios de los Streams:
 
-* ```Miércoles a las 16:00```
+* ```Jueves a las 16:00```
 * ```Viernes a las 16:00```
 * ```Domingo a las 16:30 (solo especiales)```
 
