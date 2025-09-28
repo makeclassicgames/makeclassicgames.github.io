@@ -127,3 +127,5 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación acerca de Pyxel](pdfs/pyxel.pdf){:target="blank" title="Presentación y ejemplos del uso de Pyxel un motor retro usando Python"}
 * Presentación Desarrollo Retro.
     * [Presentación Euskal encounter](pdfs/juegosretro.pdf){:target="blank" title="Presentación de la charla dada en la Euskal Encounter 33"}
+* Fisicas 101
+    * [Posición, velocidad y aceleración](pdfs/fisica101.pdf){:target="blank" title="Presentación acerca de la física de videojuegos hablado sobre la posición, velocidad y aceleración"}
