@@ -129,3 +129,4 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación Euskal encounter](pdfs/juegosretro.pdf){:target="blank" title="Presentación de la charla dada en la Euskal Encounter 33"}
 * Fisicas 101
     * [Posición, velocidad y aceleración](pdfs/fisica101.pdf){:target="blank" title="Presentación acerca de la física de videojuegos hablado sobre la posición, velocidad y aceleración"}
+    * [Transformaciones](pdfs/transforms.pdf){:target="blank" title="Presentación acerca de las transformaciones de objetos en videojuegos: traslación, rotación y escalado."}
