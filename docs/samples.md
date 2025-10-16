@@ -71,6 +71,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Repositorio de prácticas GBA](https://github.com/makeclassicgames/gbaPractice){:target="blank" title="Repositorio con el ejemplo de prácticas para GBA"}
 * Nokia N-Gage
     * [Presentación sobre Nokia N-Gage](pdfs/ngage.pdf){:target="blank" title="Presentación acerca Nokia Ngage"}
+* GP32
+    * [Presentación acerca de GP32](pdfs/GP32.pdf){:target="blank" title="Presentación acerca GamePark 32"}
 * Sega Dreamcast
     * [Presentación acerca de DreamCast](pdfs/Dreamcast.pdf){:target="blank" title="Presentación acerca de Dreamcast y sus herramientas de desarrollo"}
 * Nintendo GameCube
