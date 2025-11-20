@@ -101,6 +101,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 ## ```Octava Generación```
 
+* Nintendo 3DS
+    * [Presentación Nintendo 3DS](pdfs/3DS.pdf){:target="blank" title="Presentación acerca Nintendo 3DS"}.
 * Playstation Vita
     * [Presentación acerca PSVita](pdfs/psvita.pdf){:target="blank" title="Presentación acerca de PSVita"}
     * [Repositorio oficial de Ejemplos](https://github.com/vitasdk/samples){:target="blank" title="Repositorio Oficial de vitasdk"}
