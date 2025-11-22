@@ -87,6 +87,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 * PlayStation Portable:
     * [Presentación PSP](pdfs/PSP.pdf){:target="blank" title="Presentación acerca de PSP"}.
+    * [Repositorio Proyecto Raylib PSP](https://github.com/makeclassicgames/PSPDinosaur){:target="blank" title="Repositorio con el proyecto 'MS Patman' desarrollado con Raylib para PSP"}.
 * Nintendo DS:
     * [Presentación Nintendo DS](pdfs/NDS.pdf){:target="blank" title="Presentación acerca de Nintendo DS"}.
     * [Repositorio con Ejemplos](https://github.com/LaJaqueria/nds-examples){:target="blank" title="Repositorio Ejemplos NDS"}.
