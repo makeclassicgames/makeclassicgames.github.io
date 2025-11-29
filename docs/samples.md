@@ -29,6 +29,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación acerca de MSX](pdfs/MSX.pdf){:target="_blank" title="Presentación acerca de los ordenadores MSX"}.
 * NES
     * [Presentación desarrollo para NES](pdfs/NES.pdf){:target="blank" title="Presentación acerca de NES y su desarrollo}.
+    * [Presentación programacion en ensamblador para NES](pdfs/asmnes.pdf){:target="blank" title="Presentación acerca de programación en ensamblador para NES"}.
 * Sega Master System
     * [Presentación acerca de SMS](pdfs/SMS.pdf){:target="_blank" title="Presentación acerca Sega Master System"}.
 
