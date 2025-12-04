@@ -20,14 +20,13 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Patrónes de diseño en videojuegos - ECS
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/5boRRNgq-_k?si=ETO7LVZ7MPh_qQv5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Nintendo 3DS - Herramientas de Desarrollo
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/nrDXUaASJJQ?si=HVYQl5wenKroCnJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-### Físicas de Videojuegos: El Salto
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/Y0dBBt68jQ8?si=fdi73xSV1JoGaw7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
