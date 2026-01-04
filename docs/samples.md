@@ -138,5 +138,6 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Transformaciones](pdfs/transforms.pdf){:target="blank" title="Presentación acerca de las transformaciones de objetos en videojuegos: traslación, rotación y escalado."}
     * [Máquinas de estados](pdfs/statemachine.pdf){:target="blank" title="Presentación acerca de la creación y uso de máquinas de estados"}
     * [Salto](pdfs/jump.pdf){:target="blank" title="Presentación acerca de como funciona la mecánica de salto"}
+    * [Colisiones](pdfs/collisions.pdf){:target="blank" title="Presentación acerca de las colisiones en videojuegos"}
 * Patrones de Diseño
     * [Patrón ECS](pdfs/ecs.pdf){:target="blank" title="Presentación acerca del patrón de diseño ECS (Entity Component System)"}
