@@ -141,3 +141,4 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Colisiones](pdfs/collisions.pdf){:target="blank" title="Presentación acerca de las colisiones en videojuegos"}
 * Patrones de Diseño
     * [Patrón ECS](pdfs/ecs.pdf){:target="blank" title="Presentación acerca del patrón de diseño ECS (Entity Component System)"}
+    * [Patrones Factory y Builder](pdfs/factory.pdf){:target="blank" title="Presentación acerca de los patrones de diseño Factory y Builder"}
