@@ -20,13 +20,13 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Patrones de Diseño: Factory y Builder
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/xk_1Htqj98U?si=vMfBXPz5psYxiWuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Físicas de Videojuegos: Colisiones
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/z-E7kRqKFv0?si=BoPUqStFSSpvkzA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-### Patrónes de diseño en videojuegos - ECS
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/5boRRNgq-_k?si=ETO7LVZ7MPh_qQv5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
