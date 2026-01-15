@@ -23,7 +23,3 @@ Aquí puedes encontrar los horarios de los Streams:
 * ```Domingo a las 16:30 (solo especiales)```
 
 ```NOTA: Todos los horarios estan en formato CEST (GMT+2).```
-
-### ```Próximo Especial```
-
-El próximo especial, será el ```día 26 de Octubre``` y tratará sobre ```Especial Comandos```.
