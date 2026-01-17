@@ -57,6 +57,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     
 ## ```Quinta Generación```
 
+* 3DO
+    * [Presentación acerca de 3DO](pdfs/3DO.pdf){:target="blank" title="Presentación acerca de 3DO y las herramientas de desarrollo disponibles"}
 * Sega Saturn
     * [Presentación acerca de Sega Saturn](pdfs/Sega%20Saturn.pdf){:target="blank" title="Presentación acerca Sega Saturn y las herramientas de desarrollo disponibles"}
 * Sony PlayStation
