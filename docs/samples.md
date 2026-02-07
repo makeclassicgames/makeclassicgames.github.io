@@ -141,6 +141,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Máquinas de estados](pdfs/statemachine.pdf){:target="blank" title="Presentación acerca de la creación y uso de máquinas de estados"}
     * [Salto](pdfs/jump.pdf){:target="blank" title="Presentación acerca de como funciona la mecánica de salto"}
     * [Colisiones](pdfs/collisions.pdf){:target="blank" title="Presentación acerca de las colisiones en videojuegos"}
+    * [Física de plataformas](pdfs/plataformas.pdf){:target="blank" title="Presentación acerca de la física de los juegos de plataformas"}
 * Patrones de Diseño
     * [Patrón ECS](pdfs/ecs.pdf){:target="blank" title="Presentación acerca del patrón de diseño ECS (Entity Component System)"}
     * [Patrones Factory y Builder](pdfs/factory.pdf){:target="blank" title="Presentación acerca de los patrones de diseño Factory y Builder"}
