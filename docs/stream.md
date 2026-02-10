@@ -20,12 +20,12 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Física de Videojuegos: Plataformas
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/uxKBStEKCjU?si=0ryVavVbAgHCmifi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Desarrollo en ensamblador para NES - Segunda Parte
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/4Rz8jiTUs6Y?si=7sfpuWVswI7DTndp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### 3DO - Herramientas de Desarrollo -  Resumen de la sesión
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/eKFVXvLhKvU?si=X-NV6JyWRjWq2SLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
