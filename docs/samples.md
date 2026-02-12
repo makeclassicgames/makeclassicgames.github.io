@@ -63,6 +63,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Presentación acerca de Sega Saturn](pdfs/Sega%20Saturn.pdf){:target="blank" title="Presentación acerca Sega Saturn y las herramientas de desarrollo disponibles"}
 * Sony PlayStation
     * [Presentación de Sony PlayStation](pdfs/PS1.pdf){:target="blank" title="Presentación acerca de Sony PlayStation y las Herramientas de desarrollo disponibles"}
+* Virtual Boy
+    * [Presentación de VirtualBoy](pdfs/Virtual%20Boy.pdf){:target="blank" title="Presentaciónacerca de VirtualBoyy las herramientas de desarrollo disponibles"}
 * Nintendo 64
     * [Presentación acerca Nintendo 64](pdfs/n64.pdf){:target="blank" title="Presentación acerca de Nintendo 64 y las herramientas de desarrollo disponibles."}
 
