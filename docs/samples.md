@@ -115,6 +115,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 
 ## ```Otros```
 
+* Taller Godot
+    * [Presentación Taller Godot](https://makeclassicgames.dev/godotosc2025/){:target="blank" title="Web con información acerca del taller de Godot dado en el curso de especialización de desarrollo de videojuegos"}
 * C/C++
     * [Presentación de Introducción a C](https://slides.com/zerasul/introduccion-a-c){:target="blank" title="Presentación de introducción a C"}
     * [Presentación de Introducción a C++](https://makeclassicgames.dev/cplusplus/){:target="blank" title="Presentación de introducción a C++"}
