@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Virtual Boy - Herramientas de Desarrollo
+### Especial cacharreo - Cambio de pantalla de Game Boy Color y Restauración de cartucho
 
-<iframe src="https://player.twitch.tv/?video=2695772420&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2711902701&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
@@ -20,12 +20,12 @@ A continuación, puedes encontrar otros Streams anteriores; además recuerda que
 
 <p></p>
 
+### Virtual Boy - Herramientas de Desarrollo - Resumen de la sesión
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/aelSQm51Yso?si=2ziyebCZR129WsDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Física de Videojuegos: Plataformas
 
 <iframe width="460" height="315" src="https://www.youtube.com/embed/uxKBStEKCjU?si=0ryVavVbAgHCmifi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Desarrollo en ensamblador para NES - Segunda Parte
-
-<iframe width="460" height="315" src="https://www.youtube.com/embed/4Rz8jiTUs6Y?si=7sfpuWVswI7DTndp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
