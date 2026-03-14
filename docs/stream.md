@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Especial cacharreo - Cambio de pantalla de Game Boy Color y Restauración de cartucho
+### Ensamblador para NES - añadirmos más gráficos a nuestro juego
 
-<iframe src="https://player.twitch.tv/?video=2711902701&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2721256832&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
