@@ -6,9 +6,9 @@ Aquí puedes encontrar información acerca de los últimos Streams.
 
 Aquí puedes encontrar el vídeo (VoD) desde Twitch del último Stream.
 
-### Revisión de juegos de Jam.
+### WedNesday 1: Introducción a NES
 
-<iframe src="https://player.twitch.tv/?video=2819063328&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
+<iframe src="https://player.twitch.tv/?video=2820654790&parent=makeclassicgames.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="460"></iframe>
 
 <p></p>
 
