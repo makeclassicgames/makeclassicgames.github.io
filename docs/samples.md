@@ -30,6 +30,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * NES
     * [Presentación desarrollo para NES](pdfs/NES.pdf){:target="blank" title="Presentación acerca de NES y su desarrollo}.
     * [Presentación programacion en ensamblador para NES](pdfs/asmnes.pdf){:target="blank" title="Presentación acerca de programación en ensamblador para NES"}.
+    * [wedNESday 1: Introducción a NES](pdfs/WedNESDay1.pdf){:target="blank" title="Presentación Sesión wedNESday 1: Introducción a NES"}.
 * Sega Master System
     * [Presentación acerca de SMS](pdfs/SMS.pdf){:target="_blank" title="Presentación acerca Sega Master System"}.
 
