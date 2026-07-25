@@ -39,6 +39,7 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
 * Game Boy:
     * [Presentación Game Boy](pdfs/GB_GBC.pdf){:target="_blank" title="Presentación acerca Game Boy/Game Boy Color"}.
     * [Repositorio Juego realizado con GBStudio](https://github.com/makeclassicgames/evilchairs){:target="blank" title="Juego para Game Boy realizado usando GBStudio"}.
+    * [Taller GBStudio Euskal Encounter 34](https://makeclassicgames.dev/tallergbstudio/){:target="blank" title="Taller de GBStudio realizado en la Euskal Encounter 34"}.
 * Atari Lynx:
     * [Presentación acerca de Atari Lynx](pdfs/Lynx.pdf){:target="_blank" title="Presentación acerca de Atari Lynx y las herramientas de desarrollo disponibles"}.
 * Game Gear:
