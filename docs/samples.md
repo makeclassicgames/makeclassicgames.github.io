@@ -126,6 +126,8 @@ Para ayudarnos a ver cada ejemplo, vamos a clasificar cada máquina vista por ca
     * [Laboratorio Rust](https://github.com/zerasul/intro-rustlab){:target="_blank" title="Laboratorio de introducción a Rust"}
 * Vircon32
     * [Presentación sobre Vircon32](pdfs/Vircon32.pdf){:target="_blank" title="Presentación acerca del proyecto Vircon32"}
+* Arduboy
+    * [Taller de Arduboy](https://makeclassicgames.dev/arduboyworkshop/){:target="blank" title="Taller de Arduboy para crear un videojuego con Arduino."}
 * Raylib
     * [Presentación Raylib](pdfs/Raylib.pdf){:target="blank" title="Presentación acerca de Raylib"}
     * [Repositorio Ejemplos](https://github.com/makeclassicgames/raylib-examples){:target="blank" title="Repositorio de ejemplos realizado con Raylib"}
