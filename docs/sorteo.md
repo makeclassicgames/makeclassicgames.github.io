@@ -1,6 +1,6 @@
 # Sorteos
 
-### Sorteo 500 y... seguidores
+### Sorteo 500 y...
 
 Para celebrar que somos más de 500 seguidores en Twitch, vamos a realizar varios sorteos.
 
