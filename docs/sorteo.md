@@ -1,13 +1,10 @@
 # Sorteos
 
-### Sorteo 100 Seguidores
+### Sorteo 500 y... seguidores
 
-Para celebrar que somos más de 100 seguidores en Twitch, vamos a realizar un sorteo.
+Para celebrar que somos más de 500 seguidores en Twitch, vamos a realizar varios sorteos.
 
-Se trata de sortear una consola retro R36S de 64GB:
-
-
-<img src="/img/r36s.png" alt="R36S" style="max-width:250px;display:block;margin:auto;" title="Consola R36S"/>
+Se van a realizar varios sorteos sorpresa durante el directo del próximo 10 de Octubre, en el especial 500 y... desde el directo de Twitch de Make Classic Games.
 
 Para participar debes:
 
@@ -16,8 +13,7 @@ Para participar debes:
  [```https://twitch.tv/makeclassicgames```](https://twitch.tv/makeclassicgames).
 
 
-* Estar conectado al chat el próximo 26 de Enero en el Especial PlayStation 2.
-
+* Estar conectado al chat el próximo 10 de Octubre en el Especial 500 y...
 
 * Debes ser mayor de edad y residir en España (por motivos logísticos).
 
